@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FeedbackLogger</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_complaints">View Complaints</string>
+    <string name="make_a_complaint">Make A Complaint</string>
+</resources>

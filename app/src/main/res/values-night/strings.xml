@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_complaints">View Complaints</string>
+    <string name="make_a_complaint">Make A Complaint</string>
+</resources>
